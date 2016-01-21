@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.version      = "1.3.7"
   s.summary      = "快速开发ios app，封装了ios开发常用的功能"
 
-  s.homepage     = "https://github.com/anyunzhong/DFCommon"
+  s.homepage     = "https://github.com/xunyn/DFCommon"
 
   s.license      = "Apache 2.0"
 
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios, "7.0"
 
 
-  s.source       = { :git => "https://github.com/anyunzhong/DFCommon.git", :tag => "1.3.7" }
+  s.source       = { :git => "https://github.com/xunyn/DFCommon.git", :tag => "1.3.7" }
 
   s.source_files  = "DFCommon/DFCommon/**/*.{h,m}"
 
